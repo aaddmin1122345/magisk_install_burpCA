@@ -21,8 +21,8 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "  Magisk Module:         "
-  ui_print "  By ZnDong"
+  ui_print "  qxqzx.xyz"
+  ui_print "  "Forked by qxqzx from ZnDong."
   ui_print "*******************************"
 }
 
