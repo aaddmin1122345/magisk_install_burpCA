@@ -38,6 +38,7 @@ print_modname() {
   ui_print "$pounds"
   ui_print "*******************"
   ui_print " Powered by Magisk "
+
   ui_print "*******************"
 }
 

@@ -1,6 +1,6 @@
-id=Burspuite
-name=安装Burpsuite根证书
-version=v1.0
+id=httpcanaryreqable
+name=BurpsuiteCa
+version=1.0
 versionCode=1
 author=qxqzx
-description=将BUrpsuite证书直接安装到系统,实现完美抓包,模块制作完全参考小黄鸟证书(浅蓝的灯),-----个人博客: qxqzx.xyz"
+description=Support Android 14
